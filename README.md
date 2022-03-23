@@ -6,7 +6,7 @@
 
 在这里，可以随时留言。
 下面是留言步骤: 
-<br>(1) 在上方第二栏Issues中点击绿色的 new lssues即可开始留言
+<br>(1) 在上方第二栏Issues中点击new lssues即可开始留言
 <br>(2) 输入留言的标题，以及要留言的内容
 <br>(3) 在最后留下<strong>学号</strong>以及<strong>姓名</strong>，方便回复统计
 <br>(4) 点击submit即可提交留言。
