@@ -14,5 +14,3 @@
 <br>(2) 输入要留言的文章的标题，以及文章的内容
 <br>(3) 在最后留下<strong>学号</strong>以及<strong>姓名</strong>和<strong>班级</strong>，方便回复统计
 <br>(4) 最后点击submit即可提交留言。
-
-<br>活动答疑qq群:1016797416
